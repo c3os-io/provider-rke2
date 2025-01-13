@@ -53,6 +53,8 @@ github.com/mudler/go-pluggable v0.0.0-20230126220627-7710299a0ae5 h1:FaZD86+A9mV
 github.com/mudler/go-pluggable v0.0.0-20230126220627-7710299a0ae5/go.mod h1:WmKcT8ONmhDQIqQ+HxU+tkGWjzBEyY/KFO8LTGCu4AI=
 github.com/mudler/yip v1.9.4 h1:yaiPKWG5kt/DTNCf7ZGfyWdb1j5c06zYqWF3F+SVKsE=
 github.com/mudler/yip v1.9.4/go.mod h1:nqf8JFCq7a7rIkm7cSs+SOc8QbiyvVJ/xLbUw4GgzFs=
+github.com/mudler/yip v1.13.1 h1:kMzysvYxZybqf1ve53elrGdSaHgdJ3XtMq/ZauXdGTY=
+github.com/mudler/yip v1.13.1/go.mod h1:KuSs3KUwC+j+9yZMSAZT1e07L+RRm5Pg0O4mA4KFlm8=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
 github.com/nxadm/tail v1.4.8 h1:nPr65rt6Y5JFSKQO7qToXr7pePgD6Gwiw05lkbyAQTE=
 github.com/nxadm/tail v1.4.8/go.mod h1:+ncqLTQzXmGhMZNUePPaPqPvBxHAIsmXswZKocGu+AU=
