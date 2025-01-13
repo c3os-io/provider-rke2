@@ -4,7 +4,7 @@ go 1.22.5
 
 require (
 	github.com/kairos-io/kairos-sdk v0.4.2
-	github.com/mudler/yip v1.9.4
+	github.com/mudler/yip v1.13.1
 	github.com/sirupsen/logrus v1.9.3
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
