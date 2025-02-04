@@ -47,6 +47,8 @@ github.com/kairos-io/kairos-sdk v0.5.0 h1:CtYz2WXe5huKkjPSro2J1kiLVjDr6T9909uckK
 github.com/kairos-io/kairos-sdk v0.5.0/go.mod h1:RO5ad3gCd2O2zJE5mEnPHLUy/+fRKKQL4fe7xV6FtyA=
 github.com/kairos-io/kairos-sdk v0.7.2 h1:MVoo5WgtxVCk4HQPSWOt11lcvPLD8OOe+tbVPQuAAvk=
 github.com/kairos-io/kairos-sdk v0.7.2/go.mod h1:fjDBpFXZVsooycJx4KmEFM6E3aSYfzQOTZCkHZuucX4=
+github.com/kairos-io/kairos-sdk v0.7.3 h1:OyDSEQVtc1MnRrP3M8d+wref0RA3eZof/FTL5ETOlXM=
+github.com/kairos-io/kairos-sdk v0.7.3/go.mod h1:ZSxP3VgOE2+f/3IdPNcGK7qcYLWl44zV+gq0m+9ovoo=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
 github.com/kr/pretty v0.3.1/go.mod h1:hoEshYVHaxMs3cyo3Yncou5ZscifuDolrwPKZanG3xk=
@@ -60,6 +62,8 @@ github.com/mudler/yip v1.10.0 h1:MwEIySEfSRRwTUz2BmQQpRn6+M7jqVGf/OldsepBvz0=
 github.com/mudler/yip v1.10.0/go.mod h1:gwH7iGcr1Jimox2xKtN2AprEO00GzY7smvuycqCL7+Y=
 github.com/mudler/yip v1.13.1 h1:kMzysvYxZybqf1ve53elrGdSaHgdJ3XtMq/ZauXdGTY=
 github.com/mudler/yip v1.13.1/go.mod h1:KuSs3KUwC+j+9yZMSAZT1e07L+RRm5Pg0O4mA4KFlm8=
+github.com/mudler/yip v1.14.1 h1:wJ1caeVULkHgPGC0R5rHyl3jZi0T7SZuspfcIBxWwaE=
+github.com/mudler/yip v1.14.1/go.mod h1:XIvNlX4cPMeiq2WK0H4Az0+Wk8K3rkkQbl26RsMHL94=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
 github.com/nxadm/tail v1.4.8 h1:nPr65rt6Y5JFSKQO7qToXr7pePgD6Gwiw05lkbyAQTE=
 github.com/nxadm/tail v1.4.8/go.mod h1:+ncqLTQzXmGhMZNUePPaPqPvBxHAIsmXswZKocGu+AU=
